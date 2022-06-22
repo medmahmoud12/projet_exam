@@ -1,0 +1,1 @@
+web: gunicorn PROJET-MAIN/projet-main.wsgi
